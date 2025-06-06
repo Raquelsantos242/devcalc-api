@@ -1,3 +1,2 @@
-readme - alteração 3 - alt
-outra alteração teste
-alteração teste pr
+# DevCalc API
+API em Java com Javalin para operações de cálculo simples, testes automatizados e CI/CD no GitHub Actions.
